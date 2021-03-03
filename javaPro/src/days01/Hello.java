@@ -5,8 +5,11 @@ public class Hello {
 		
 		System.out.println("Hello World");
 		
-		// �߰� �ڵ� �۾�
+		// 추가 코딩 작업
 		System.out.println("Add");
+
+		// 추가 추가 작업
+		System.out.println("Edit");
 		
 		// kaka is cute
 		String kaka = "cute";
