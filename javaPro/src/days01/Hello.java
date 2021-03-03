@@ -7,5 +7,8 @@ public class Hello {
 		
 		// 추가 코딩 작업
 		System.out.println("Add");
+		
+		// kaka is cute
+		String kaka = "cute";
 	}
 }
